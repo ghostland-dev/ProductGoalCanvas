@@ -133,6 +133,12 @@ Les exports utilisent `html-to-image` et `jsPDF` pour capturer le canvas et gén
 Développé avec ❤️ par **Ismail MOUYAHADA**.  
 Si vous appréciez ce projet, vous pouvez le soutenir via le bouton de don intégré (Buy Me a Coffee).
 
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Fproduct-goal-canvas)
+
+Click the button to deploy your own copy on Vercel in one step.
+
 ## Author
 
 **Ismail.M**, Software Engineer & DevOps
