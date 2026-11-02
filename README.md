@@ -133,3 +133,9 @@ Les exports utilisent `html-to-image` et `jsPDF` pour capturer le canvas et gén
 Développé avec ❤️ par **Ismail MOUYAHADA**.  
 Si vous appréciez ce projet, vous pouvez le soutenir via le bouton de don intégré (Buy Me a Coffee).
 
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
